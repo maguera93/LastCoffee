@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Bullet
+  - Wall
+  - Room
+  - MiniMapCamera
+  - EnemyBullet
+  - EnemyBulletContainer
+  - Enemy
+  - Coffee
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Enemy
+  - Room
+  - Door
+  - Bullet
+  - MiniMap
+  - EnemyBullet
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Floor
+    uniqueID: 2133110673
+    locked: 0
+  - name: Enemy
+    uniqueID: 3965099517
+    locked: 0
+  - name: Player
+    uniqueID: 2084762721
+    locked: 0
+  - name: Wall
+    uniqueID: 2540182843
+    locked: 0
+  - name: UI
+    uniqueID: 3893029657
+    locked: 0
